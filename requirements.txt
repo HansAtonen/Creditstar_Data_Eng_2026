@@ -1,0 +1,11 @@
+fastjsonschema==2.19.1
+ipykernel==6.29.4
+ipython==8.25.0
+numpy==1.26.4
+pyarrow
+python-docx
+openpyxl
+pandas 
+psycopg2-binary 
+boto3
+kafka-python
